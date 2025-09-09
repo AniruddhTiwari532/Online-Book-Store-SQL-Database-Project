@@ -45,3 +45,9 @@ Aggregate Functions
 Grouping & Filtering
 
 Views & Indexing
+
+## Queries & Solutions
+
+Queries :- - <a href= "https://github.com/AniruddhTiwari532/Online-Book-Store-SQL-Database-Project/blob/main/Books.csv">Books.CSV</a>
+
+Solutions :- - <a href= "https://github.com/AniruddhTiwari532/Online-Book-Store-SQL-Database-Project/blob/main/Books.csv">Books.CSV</a>
