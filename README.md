@@ -14,7 +14,7 @@ This project is a SQL-based database system designed for managing an online book
 
 Books - <a href= "https://github.com/AniruddhTiwari532/Online-Book-Store-SQL-Database-Project/blob/main/Books.csv">Books.CSV</a>
 
-Customers - <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Customers.CSV</a>
+Customers - <a href= "https://github.com/AniruddhTiwari532/Online-Book-Store-SQL-Database-Project/blob/main/Customers.csv">Customers.CSV</a>
 
 Orders - <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Orders.CSV</a>
 
