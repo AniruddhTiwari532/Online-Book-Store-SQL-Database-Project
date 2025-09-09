@@ -12,11 +12,11 @@ This project is a SQL-based database system designed for managing an online book
 
 #### Tables Used:
 
-Books
+Books - <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Books.CSV</a>
 
-Customers
+Customers - <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Customers.CSV</a>
 
-Orders
+Orders - <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Orders.CSV</a>
 
 #### Relationships:
 
