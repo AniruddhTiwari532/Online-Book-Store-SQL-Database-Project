@@ -25,3 +25,23 @@ Books.Book_ID ↔ Orders.Book_ID
 Customers.Customer_ID ↔ Orders.Customer_ID
 
 This design ensures data normalization and avoids redundancy.
+
+## 🛠️ Tech Stack
+
+#### Database: 
+PostgreSQL
+
+#### Dataset Format:
+CSV
+
+#### Concepts Applied:
+
+DDL & DML Commands
+
+Joins & Subqueries
+
+Aggregate Functions
+
+Grouping & Filtering
+
+Views & Indexing
